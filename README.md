@@ -1,5 +1,9 @@
 # Subtitle Converter
 
+<p align="center">
+  <img src="https://github.com/theonlymo/SubtitleConverter/assets/145556517/29362394-d84a-4b52-bad0-5b889e617040" alt=""/>
+</p>
+
 Subtitle Converter is a Swift library that allows you to convert subtitles from SRT to VTT format using a remote API.
 
 ## Features
