@@ -17,7 +17,7 @@ To use Subtitle Converter in your project, you need to add it as a dependency in
 
 .binaryTarget(
     name: "SubtitleConverter",
-    url: https://github.com/theonlymo/SubtitleConverter/releases/download/1.0/SubtitleConverter.zip",
+    url: "https://github.com/theonlymo/SubtitleConverter/releases/download/1.0/SubtitleConverter.zip",
     checksum: "cfebc9b9f361996dcaf1c8021cc449c5cf2b90424a847ad8150dc332f1d41f19"
 )
 ```
