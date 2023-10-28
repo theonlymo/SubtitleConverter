@@ -33,7 +33,14 @@ import SubtitleConverter
 ```
 
 ## Usage
-You can use the `convert` methods to convert subtitles from either a local file path or a remote URL. Both methods return a URL of the converted subtitle file in the temporary directory. The methods are asynchronous and throw errors if something goes wrong.
+To convert subtitles, you need to have a valid license key that you can obtain from [here](https://github.com/sponsors/theonlymo/sponsorships?sponsor=theonlymo&tier_id=328797) . 
+You can set the license key as a static property of the `SubtitleConverter` class:
+
+```swift
+SubtitleConverter.licenseKey = "your-license-key"
+```
+
+Then, you can use the `convert` methods to convert subtitles from either a local file path or a remote URL. Both methods return a URL of the converted subtitle file in the temporary directory. The methods are asynchronous and throw errors if something goes wrong.
 
 ```swift
 // Convert subtitles from a local file path
