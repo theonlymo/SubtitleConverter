@@ -1,4 +1,4 @@
-# Subtitle Converter
+# Subtitle Streamer Converter
 
 <p align="center">
   <img src="https://github.com/theonlymo/SubtitleConverter/assets/145556517/29362394-d84a-4b52-bad0-5b889e617040" alt=""/>
